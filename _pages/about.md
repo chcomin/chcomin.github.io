@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: ""
+title: "Prof. Cesar Henrique Comin — Computer Vision Researcher & Professor"
+description: "Cesar Henrique Comin — Assistant Professor at UFSCar (Federal University of São Carlos). Computer Vision and Biomedical Image Analysis researcher with 70+ publications. Teacher of Digital Image Processing and Computer Vision."
 excerpt: "About me"
 author_profile: true
 redirect_from: 

@@ -1,0 +1,44 @@
+# Prof. Cesar Henrique Comin
+
+> Assistant Professor at the Federal University of São Carlos (UFSCar), Brazil. Researcher in Computer Vision and Biomedical Image Analysis. Teacher of Digital Image Processing and Computer Vision.
+
+## About
+
+Cesar Henrique Comin is an Assistant Professor at UFSCar (Federal University of São Carlos, São Carlos, SP, Brazil). He specializes in Computer Vision, Deep Learning, and Biomedical Image Analysis, with a particular focus on blood vessel segmentation, representation, and morphometry, as well as interpretability of deep neural networks. He has published more than 70 peer-reviewed papers in journals and conferences.
+
+ORCID: 0000-0003-1207-4982
+
+## Research Areas
+
+- Biomedical image segmentation (blood vessels, neurons, tree-like structures)
+- Interpretability of deep neural networks
+- Complex systems and network science
+- Digital image processing
+
+## Pages
+
+- [Home / About](https://chcomin.github.io/): Personal landing page with biography, research overview, and teaching resources.
+- [Publications](https://chcomin.github.io/publications/): List of 70+ peer-reviewed publications with links to Google Scholar, ORCID, Scopus, PubMed, Semantic Scholar, and ResearchGate.
+
+## External Profiles
+
+- Google Scholar: https://scholar.google.com.br/citations?user=Iut1PNgAAAAJ
+- ORCID: https://orcid.org/0000-0003-1207-4982
+- Semantic Scholar: https://www.semanticscholar.org/author/Cesar-Henrique-Comin/2327749
+- ResearchGate: https://www.researchgate.net/profile/Cesar-Comin-2
+- Scopus: https://www.scopus.com/authid/detail.uri?authorId=54398369800
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/?term=Comin+CH&cauthor_id=30645617
+- arXiv: https://arxiv.org/a/comin_c_1.html
+- Academia.edu: https://ufscar.academia.edu/CesarComin
+- GitHub: https://github.com/chcomin
+- Lab page (INAG): https://www.inag.ufscar.br/
+
+## Teaching Resources (in Portuguese)
+
+- Computer Vision course (51 Jupyter notebooks): https://github.com/chcomin/curso-visao-computacional
+- Digital Image Processing course (Jupyter notebooks): https://github.com/chcomin/curso-processamento-de-imagens
+- YouTube channel: https://www.youtube.com/@cesarhcomin4117
+
+## Software
+
+- Pyvane (vascular analysis framework): https://github.com/chcomin/pyvane

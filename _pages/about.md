@@ -9,12 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-# Prof. Cesar Henrique Comin 
-**Professor | Researcher**  
-**Specializing in Computer Vision, Artificial Intelligence, and Education**  
-
----
-
 ## About Me  
 
 Hello! I’m Prof. Cesar Henrique Comin, a university professor and Computer Vision researcher with a deep passion for enabling machines to perceive, understand, and interact with the world as humans do. 
